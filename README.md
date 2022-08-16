@@ -5,7 +5,7 @@ Repo for personal landing page.
 
 ## Deployment
 
-> Deployed Website: https://joaofilipevale.github.io
+> Deployed Website: https://joaovale.dev/
 
 > Image: **Waiting for image**
 
