@@ -5,7 +5,7 @@ Repo for personal landing page.
 
 ## Deployment
 
-> Deployed Website: **Waiting for link**
+> Deployed Website: https://joaofilipevale.github.io
 
 > Image: **Waiting for image**
 
@@ -19,7 +19,7 @@ Repo for personal landing page.
 
 
 ## Project Setup
-###### Start
+### Start
 ```
 npm install
 ```
