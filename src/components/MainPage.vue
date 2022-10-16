@@ -20,7 +20,7 @@
           <ul>
             <a
               class="link"
-              href="https://media-exp1.licdn.com/dms/document/C4E2DAQEURhgTQTV2wA/profile-treasury-document-pdf-analyzed/0/1645128792873?e=1660176000&v=beta&t=6VHyasAGZMb5pBwngOk1oa7o8a9hEcWix18kLTbrxgA"
+              href="https://drive.google.com/file/d/1SEv_Mwr0VqUxFxjBAwl0BEqzdqPmjmdM/view?usp=sharing"
               target="__blank"
               title="João Vale Resume"
               >Resume</a
